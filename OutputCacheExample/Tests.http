@@ -1,0 +1,11 @@
+@HostAddress = http://localhost:5211
+
+GET {{HostAddress}}/test-outputcache/1/
+Accept: application/json
+
+###
+
+GET {{HostAddress}}/test-outputcache/2/
+Accept: application/json
+
+###
