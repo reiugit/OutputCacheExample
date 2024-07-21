@@ -1,7 +1,7 @@
 # OutputCache for WebAPI
 
 1. Add OutputCache to DI container
-   <pre>builder.Services.AddOutputCache(configureOptions)</pre>pre>
+   <pre>builder.Services.AddOutputCache(configureOptions)</pre>
 
 3. Add OutputCache to middleware
    <pre>app.UseOutputCache()</pre>
