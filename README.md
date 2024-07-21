@@ -1,7 +1,7 @@
 # OutputCache for WebAPI
 
-* builder.Services.AddOutputCache(configureOptions)
-* app.UseOutputCache()
+1. builder.Services.AddOutputCache(configureOptions)
+2. app.UseOutputCache()
 
 * Use '.CacheOutput()' for minimal endpoints
 * or '[CacheOutput]' in controllers
