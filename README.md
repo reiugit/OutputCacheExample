@@ -8,7 +8,7 @@
 
 5. Apply caching to endpoints
    <pre>
-   * Use method '.CacheOutput()' for minimal endpoints
-   * or Attribute '[CacheOutput]' in controllers
+   Use method '.CacheOutput()' for minimal endpoints
+   or Attribute '[CacheOutput]' in controllers
    </pre>
   
