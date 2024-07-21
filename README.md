@@ -7,7 +7,8 @@
    <pre>app.UseOutputCache()</pre>
 
 5. Apply caching to endpoints
-
-* Use '.CacheOutput()' for minimal endpoints
-* or '[CacheOutput]' in controllers
+<pre>
+   * Use '.CacheOutput()' for minimal endpoints
+   * or '[CacheOutput]' in controllers
+</pre>
   
